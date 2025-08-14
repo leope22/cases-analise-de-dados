@@ -1,12 +1,12 @@
 # Cases de Análise de Dados
 
-Este repositório contém projetos de análise de dados que demonstram a aplicação de Python e suas bibliotecas para esse tema. Os projetos incluem um simulado exploratório e a resolução de um case técnico.
+Este repositório contém projetos de análise de dados que demonstram a aplicação de Python e suas bibliotecas para esse tema. Os projetos incluem um simulado exploratório de nível iniciante e a resolução de um case técnico.
 
 ## Projetos
 
 ### 1. Simulado: Análise E-commerce
 
-Este projeto é um exercício completo de análise exploratória de dados (EDA) utilizando múltiplos datasets simulados para gerar um diagnóstico sobre um negócio de e-commerce.
+Este projeto é um exercício introdutório de teste de análise exploratória de dados (EDA) utilizando múltiplos datasets simulados.
 
 ### 2. Case Técnico
 
