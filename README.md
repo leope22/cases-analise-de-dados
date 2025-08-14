@@ -1,6 +1,6 @@
 # Cases de Análise de Dados
 
-Este repositório contém projetos de análise de dados que demonstram a aplicação de Python e suas bibliotecas para resolver problemas de negócio. Os projetos incluem um simulado exploratório e a resolução de um case técnico.
+Este repositório contém projetos de análise de dados que demonstram a aplicação de Python e suas bibliotecas para esse tema. Os projetos incluem um simulado exploratório e a resolução de um case técnico.
 
 ## Projetos
 
